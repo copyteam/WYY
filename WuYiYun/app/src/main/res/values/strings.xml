@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">WuYiYun</string>
+    <string name="shouye">首页</string>
+    <string name="gouwuche">购物车</string>
+    <string name="wodewuyiyun">我的物易云</string>
+    <string name="wodewuyiyun1">我的物易云</string>
+    <string name="wodedizhiguanli">我的地址管理</string>
+    <string name="shizhi">设置</string>
+    <string name="tuichu">退出</string>
+    <string name="todo">TODO</string>
+    <string name="wodenicheng">我的昵称</string>
+    <string name="wodedingdan">我的订单</string>
+    <string name="woshoucangdeshangpin">我收藏的商品</string>
+</resources>
